@@ -1,2 +1,2 @@
-Git is a version control system.
+readme2
 Git is free software.
